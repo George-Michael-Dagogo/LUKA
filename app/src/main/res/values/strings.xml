@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LUKA</string>
+    <string name="clothing_deal">Clothing deal</string>
+    <string name="price_hint">Price (numbers only)</string>
+    <string name="description_hint">Description</string>
+    <string name="save_menu">save</string>
+    <string name="new_travel_deal">New LUKA Deal</string>
+    <string name="delete_menu">Delete Deal</string>
+    <string name="logout">Logout</string>
+    <string name="about_us">About Us</string>
+    <string name="upload_image">Upload Image</string>
+</resources>
